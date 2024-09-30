@@ -26,7 +26,7 @@ document
       "Halo, saya " + nama + " ingin berkonsultasi mengenai rental baju adat.";
 
     // Nomor WhatsApp tujuan (misal, +62 812 3456 7890 diubah jadi 6281234567890)
-    var nomorTujuan = "6285250809518";
+    var nomorTujuan = "6289690345655";
 
     // Buat URL WhatsApp API
     var url =
